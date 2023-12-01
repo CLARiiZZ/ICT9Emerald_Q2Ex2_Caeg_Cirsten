@@ -1,0 +1,29 @@
+#ttl {
+	text-align: center;
+	font-family: Arial, sans-serif;
+}
+
+#topic1 {
+	background-color: indianred;
+	margin: 20px;
+	padding: 10px;
+	color: white;
+	font-family: Arial, sans-serif;
+}
+
+#topic2 {
+	background-color: seagreen;
+	margin: 20px;
+	padding: 10px;
+	color: white;
+	margin-top: 15px;
+	font-family: Arial, sans-serif;
+}
+
+.top {
+	text-align: center;
+}
+
+.bot {
+	text-align: left;
+}
